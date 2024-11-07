@@ -28,7 +28,10 @@ Bem-vindo ao meu perfil GitHub! Sou desenvolvedor apaixonado por tecnologia e in
 
 ---
 
-### 🐍 Cobrinha de Commits
-![snake animation](https://github.com/andrealtobelli/andrealtobelli/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrealtobelli/andrealtobelli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrealtobelli/andrealtobelli/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrealtobelli/andrealtobelli/output/github-contribution-grid-snake.svg">
+</picture>
 
 ⭐️ **Se você gostou, considere dar uma estrela em um dos repositórios!**
