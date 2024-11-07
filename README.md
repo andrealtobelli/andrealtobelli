@@ -17,6 +17,9 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de Análise e Desenvolvimento de S
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwind-css)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)&nbsp;
@@ -29,6 +32,8 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de Análise e Desenvolvimento de S
 ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)&nbsp;
 ![Oracle Data Modeler](https://img.shields.io/badge/-Oracle%20Data%20Modeler-000?style=flat&logo=oracle)&nbsp;
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-000?style=flat&logo=oracle)&nbsp;
+
+
 
 
 ---
