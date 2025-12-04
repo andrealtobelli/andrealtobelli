@@ -10,8 +10,8 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de Análise e Desenvolvimento de S
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrealtobelli&show_icons=true&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=000000&cache_seconds=1000" alt="Estatísticas do GitHub de Andre Altobelli"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealtobelli&layout=compact&title_color=0366d6&text_color=ffffff&bg_color=000000&cache_seconds=1000" alt="Linguagens mais usadas por Andre Altobelli"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrealtobelli&show_icons=true&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=000000&refresh=1" alt="Estatísticas do GitHub de Andre Altobelli"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealtobelli&layout=compact&title_color=0366d6&text_color=ffffff&bg_color=000000&refresh=1" alt="Linguagens mais usadas por Andre Altobelli"/>
 </div>
 
 ---
